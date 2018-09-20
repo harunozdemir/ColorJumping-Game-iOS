@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/Magnetic.svg?style=flat)](http://cocoapods.org/pods/Magnetic)
 
 
-**Color Jumping** is a different version of the color switch game.
+**Color Jumping** is a different version of the color switch game.You can improve the game as you like.
 
 Menu Scene             |  Game Scene             |  Game Over Scene
 :-------------------------:|:-------------------------:|:-------------------------:
