@@ -323,7 +323,7 @@
 				TargetAttributes = {
 					757A20EC1F03A5480067BE2A = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 5S2E86548V;
+						DevelopmentTeam = 64562SH9PB;
 						ProvisioningStyle = Automatic;
 					};
 					757A21061F03A5490067BE2A = {
@@ -343,6 +343,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -559,12 +560,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5S2E86548V;
+				DEVELOPMENT_TEAM = 64562SH9PB;
 				INFOPLIST_FILE = colorjumping/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.colorjumping;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -573,12 +574,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5S2E86548V;
+				DEVELOPMENT_TEAM = 64562SH9PB;
 				INFOPLIST_FILE = colorjumping/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.colorjumping;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
