@@ -1,6 +1,6 @@
 # Color Jumping
 
-[![Language](https://img.shields.io/badge/Swift-3-orange.svg?style=flat)](https://swift.org)
+[![Language](https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat)](https://swift.org)
 [![Platform](https://img.shields.io/cocoapods/p/Magnetic.svg?style=flat)](http://cocoapods.org/pods/Magnetic)
 
 
@@ -22,7 +22,7 @@ Menu Scene             |  Game Scene             |  Game Over Scene
 
 - iOS 9.0+
 - Xcode 8.0+
-- Swift 3
+- Swift 4.2
 
 ## Feedback
 Help / bug fix etc. Feel free to contact out via [Mail](mailto:harunozdmirr@gmail.com)
