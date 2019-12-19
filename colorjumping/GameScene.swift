@@ -358,10 +358,13 @@ class GameScene: SKScene {
         GameState.sharedInstance.saveState()
         
         
+      
+      if let gameOverScene = GameOverScene(fileNamed: "GameOverScene") {
         let transition = SKTransition.flipHorizontal(withDuration: 0.5)
-        let gameOverScene = GameOverScene(fileNamed: "GameOverScene")!
+        gameOverScene.scaleMode = .aspectFill
         self.view?.presentScene(gameOverScene,transition: transition)
-        
+      }
+    
         
     }
     
